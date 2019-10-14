@@ -10,6 +10,10 @@ namespace CountTest
     {
         static void Main(string[] args)
         {
+            //Hello World
+            //My name is Huy
+            
+            
             Console.WriteLine("Hello World");
             Console.ReadLine();
         }
